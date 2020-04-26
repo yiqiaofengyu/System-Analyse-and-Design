@@ -37717,7 +37717,7 @@
 													"top": -30,
 													"width": 96.0908203125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 浏览模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -37916,7 +37916,7 @@
 													"top": -94,
 													"width": 96.0908203125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 浏览模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -38115,7 +38115,7 @@
 													"top": -66,
 													"width": 96.0908203125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 浏览模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -38314,7 +38314,7 @@
 													"top": -126,
 													"width": 96.0908203125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 浏览模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -38513,7 +38513,7 @@
 													"top": -130,
 													"width": 96.0908203125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 浏览模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -38712,7 +38712,7 @@
 													"top": -190,
 													"width": 96.0908203125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 浏览模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -38911,7 +38911,7 @@
 													"top": -142,
 													"width": 96.0908203125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 浏览模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -39110,7 +39110,7 @@
 													"top": -190,
 													"width": 96.0908203125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 浏览模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -39309,7 +39309,7 @@
 													"top": -238,
 													"width": 96.0908203125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 浏览模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -40899,9 +40899,9 @@
 													"font": "Arial;13;0",
 													"left": -16,
 													"top": 48,
-													"width": 81.44677734375,
+													"width": 116.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 账户管理模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -41098,9 +41098,9 @@
 													"font": "Arial;13;0",
 													"left": -48,
 													"top": 48,
-													"width": 81.44677734375,
+													"width": 116.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 账户管理模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -41297,9 +41297,9 @@
 													"font": "Arial;13;0",
 													"left": -16,
 													"top": -80,
-													"width": 81.44677734375,
+													"width": 116.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 账户管理模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -41496,9 +41496,9 @@
 													"font": "Arial;13;0",
 													"left": -96,
 													"top": -64,
-													"width": 81.44677734375,
+													"width": 116.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 账户管理模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -41695,9 +41695,9 @@
 													"font": "Arial;13;0",
 													"left": -32,
 													"top": -32,
-													"width": 81.44677734375,
+													"width": 116.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 账户管理模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -42622,9 +42622,9 @@
 													"font": "Arial;13;0",
 													"left": -80,
 													"top": -16,
-													"width": 81.44677734375,
+													"width": 116.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 个人收藏模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -42821,9 +42821,9 @@
 													"font": "Arial;13;0",
 													"left": -112,
 													"top": -32,
-													"width": 81.44677734375,
+													"width": 116.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 个人收藏模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -43020,9 +43020,9 @@
 													"font": "Arial;13;0",
 													"left": 48,
 													"top": -48,
-													"width": 81.44677734375,
+													"width": 116.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 个人收藏模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -44121,9 +44121,9 @@
 													"font": "Arial;13;0",
 													"left": -16,
 													"top": -64,
-													"width": 81.44677734375,
+													"width": 90.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 社交模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -44318,9 +44318,9 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"top": -48,
-													"width": 81.44677734375,
+													"width": 90.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 社交模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -44511,9 +44511,9 @@
 													"font": "Arial;13;0",
 													"left": -64,
 													"top": -48,
-													"width": 81.44677734375,
+													"width": 90.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 社交模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -44710,9 +44710,9 @@
 													"font": "Arial;13;0",
 													"left": -96,
 													"top": -16,
-													"width": 81.44677734375,
+													"width": 90.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 社交模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -44909,9 +44909,9 @@
 													"font": "Arial;13;0",
 													"left": -78,
 													"top": -112,
-													"width": 81.44677734375,
+													"width": 90.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 社交模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -45104,9 +45104,9 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"width": 81.44677734375,
+													"width": 90.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 社交模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -45291,9 +45291,9 @@
 													"font": "Arial;13;0",
 													"left": -32,
 													"top": -16,
-													"width": 81.44677734375,
+													"width": 90.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 社交模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -45490,9 +45490,9 @@
 													"font": "Arial;13;0",
 													"left": -80,
 													"top": -32,
-													"width": 81.44677734375,
+													"width": 90.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 社交模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -45689,9 +45689,9 @@
 													"font": "Arial;13;0",
 													"left": -96,
 													"top": -64,
-													"width": 81.44677734375,
+													"width": 90.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 社交模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -45888,9 +45888,9 @@
 													"font": "Arial;13;0",
 													"left": -160,
 													"top": -32,
-													"width": 81.44677734375,
+													"width": 90.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 社交模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -46087,9 +46087,9 @@
 													"font": "Arial;13;0",
 													"left": -208,
 													"top": -64,
-													"width": 81.44677734375,
+													"width": 90.27001953125,
 													"height": 13,
-													"text": "(from 用例图)"
+													"text": "(from 社交模块)"
 												},
 												{
 													"_type": "LabelView",
@@ -48906,7 +48906,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"width": 77.27001953125,
+													"width": 81.44677734375,
 													"height": 13,
 													"text": "(from 用例图)"
 												},
@@ -49001,7 +49001,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"width": 77.27001953125,
+													"width": 81.44677734375,
 													"height": 13,
 													"text": "(from 用例图)"
 												},
@@ -49096,7 +49096,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"width": 77.27001953125,
+													"width": 81.44677734375,
 													"height": 13,
 													"text": "(from 用例图)"
 												},
@@ -49191,7 +49191,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"width": 77.27001953125,
+													"width": 81.44677734375,
 													"height": 13,
 													"text": "(from 用例图)"
 												},
@@ -49769,438 +49769,82 @@
 							]
 						},
 						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLjLo71Q=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "查看新闻"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLjLpWpw=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "查看新闻评论",
-							"ownedElements": [
-								{
-									"_type": "UMLExtend",
-									"_id": "AAAAAAFxYixhLjLqvUw=",
-									"_parent": {
-										"$ref": "AAAAAAFxYixhLjLpWpw="
-									},
-									"source": {
-										"$ref": "AAAAAAFxYixhLjLpWpw="
-									},
-									"target": {
-										"$ref": "AAAAAAFxYixhLjLo71Q="
-									}
-								}
-							]
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLjLrLUE=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "频道管理",
-							"ownedElements": [
-								{
-									"_type": "UMLInclude",
-									"_id": "AAAAAAFxYixhLjLsiIs=",
-									"_parent": {
-										"$ref": "AAAAAAFxYixhLjLrLUE="
-									},
-									"source": {
-										"$ref": "AAAAAAFxYixhLjLrLUE="
-									},
-									"target": {
-										"$ref": "AAAAAAFxYixhLjLvlLM="
-									}
-								},
-								{
-									"_type": "UMLInclude",
-									"_id": "AAAAAAFxYixhLjLtnmM=",
-									"_parent": {
-										"$ref": "AAAAAAFxYixhLjLrLUE="
-									},
-									"source": {
-										"$ref": "AAAAAAFxYixhLjLrLUE="
-									},
-									"target": {
-										"$ref": "AAAAAAFxYixhLjLwBiw="
-									}
-								},
-								{
-									"_type": "UMLInclude",
-									"_id": "AAAAAAFxYixhLjLuF+Y=",
-									"_parent": {
-										"$ref": "AAAAAAFxYixhLjLrLUE="
-									},
-									"source": {
-										"$ref": "AAAAAAFxYixhLjLrLUE="
-									},
-									"target": {
-										"$ref": "AAAAAAFxYixhLjLxNdU="
-									}
-								}
-							]
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLjLvlLM=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "切换频道"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLjLwBiw=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "增加频道"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLjLxNdU=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "删除频道"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLjLyhvw=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "搜索"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLjLzwVg=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "搜索新闻",
-							"ownedElements": [
-								{
-									"_type": "UMLGeneralization",
-									"_id": "AAAAAAFxYixhLjL0MlI=",
-									"_parent": {
-										"$ref": "AAAAAAFxYixhLjLzwVg="
-									},
-									"source": {
-										"$ref": "AAAAAAFxYixhLjLzwVg="
-									},
-									"target": {
-										"$ref": "AAAAAAFxYixhLjLyhvw="
-									}
-								}
-							]
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLjL1tYA=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "搜索动态",
-							"ownedElements": [
-								{
-									"_type": "UMLGeneralization",
-									"_id": "AAAAAAFxYixhLjL2LU0=",
-									"_parent": {
-										"$ref": "AAAAAAFxYixhLjL1tYA="
-									},
-									"source": {
-										"$ref": "AAAAAAFxYixhLjL1tYA="
-									},
-									"target": {
-										"$ref": "AAAAAAFxYixhLjLyhvw="
-									}
-								}
-							]
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLjL3WzQ=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "注册"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLjL4DaQ=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "登录"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLjL5kak=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "修改昵称"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLjL68CA=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "修改密码"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLjL72Bk=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "管理个人信息",
-							"ownedElements": [
-								{
-									"_type": "UMLInclude",
-									"_id": "AAAAAAFxYixhLjL8JL8=",
-									"_parent": {
-										"$ref": "AAAAAAFxYixhLjL72Bk="
-									},
-									"source": {
-										"$ref": "AAAAAAFxYixhLjL72Bk="
-									},
-									"target": {
-										"$ref": "AAAAAAFxYixhLjL5kak="
-									}
-								},
-								{
-									"_type": "UMLInclude",
-									"_id": "AAAAAAFxYixhLjL9Apk=",
-									"_parent": {
-										"$ref": "AAAAAAFxYixhLjL72Bk="
-									},
-									"source": {
-										"$ref": "AAAAAAFxYixhLjL72Bk="
-									},
-									"target": {
-										"$ref": "AAAAAAFxYixhLjL68CA="
-									}
-								}
-							]
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLjL+UM0=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "取消收藏",
-							"ownedElements": [
-								{
-									"_type": "UMLExtend",
-									"_id": "AAAAAAFxYixhLjL/PZ4=",
-									"_parent": {
-										"$ref": "AAAAAAFxYixhLjL+UM0="
-									},
-									"source": {
-										"$ref": "AAAAAAFxYixhLjL+UM0="
-									},
-									"target": {
-										"$ref": "AAAAAAFxYixhLzMASM8="
-									}
-								}
-							]
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLzMASM8=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "收藏新闻"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLzMBVxY=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "查看收藏"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLzMCF04=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "查看所有动态",
-							"ownedElements": [
-								{
-									"_type": "UMLGeneralization",
-									"_id": "AAAAAAFxYixhLzMDuGU=",
-									"_parent": {
-										"$ref": "AAAAAAFxYixhLzMCF04="
-									},
-									"source": {
-										"$ref": "AAAAAAFxYixhLzMCF04="
-									},
-									"target": {
-										"$ref": "AAAAAAFxYixhLzMGmt4="
-									}
-								}
-							]
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLzMEZ7M=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "查看个人动态",
-							"ownedElements": [
-								{
-									"_type": "UMLGeneralization",
-									"_id": "AAAAAAFxYixhLzMF8qc=",
-									"_parent": {
-										"$ref": "AAAAAAFxYixhLzMEZ7M="
-									},
-									"source": {
-										"$ref": "AAAAAAFxYixhLzMEZ7M="
-									},
-									"target": {
-										"$ref": "AAAAAAFxYixhLzMGmt4="
-									}
-								}
-							]
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLzMGmt4=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "查看动态"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLzMHYmk=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "查看关注动态",
-							"ownedElements": [
-								{
-									"_type": "UMLGeneralization",
-									"_id": "AAAAAAFxYixhLzMIcnM=",
-									"_parent": {
-										"$ref": "AAAAAAFxYixhLzMHYmk="
-									},
-									"source": {
-										"$ref": "AAAAAAFxYixhLzMHYmk="
-									},
-									"target": {
-										"$ref": "AAAAAAFxYixhLzMGmt4="
-									}
-								}
-							]
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLzMJofc=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "评论动态"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLzMKUlA=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "关注好友"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLzML61w=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "取消关注好友"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLzMM77A=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "解除被关注"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLzMN/nM=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "评论新闻"
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLzMOhM0=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "发布动态",
-							"ownedElements": [
-								{
-									"_type": "UMLInclude",
-									"_id": "AAAAAAFxYixhLzMPlSc=",
-									"_parent": {
-										"$ref": "AAAAAAFxYixhLzMOhM0="
-									},
-									"source": {
-										"$ref": "AAAAAAFxYixhLzMOhM0="
-									},
-									"target": {
-										"$ref": "AAAAAAFxYixhLzMN/nM="
-									}
-								},
-								{
-									"_type": "UMLInclude",
-									"_id": "AAAAAAFxYixhLzMQc4Q=",
-									"_parent": {
-										"$ref": "AAAAAAFxYixhLzMOhM0="
-									},
-									"source": {
-										"$ref": "AAAAAAFxYixhLzMOhM0="
-									},
-									"target": {
-										"$ref": "AAAAAAFxYixhLzMRNX4="
-									}
-								}
-							]
-						},
-						{
-							"_type": "UMLUseCase",
-							"_id": "AAAAAAFxYixhLzMRNX4=",
-							"_parent": {
-								"$ref": "AAAAAAFxYixhJTBU/7c="
-							},
-							"name": "发布纯文本动态"
-						},
-						{
 							"_type": "UMLUseCaseSubject",
 							"_id": "AAAAAAFxdrF3b2AcLn4=",
 							"_parent": {
 								"$ref": "AAAAAAFxYixhJTBU/7c="
 							},
-							"name": "账户管理模块"
+							"name": "账户管理模块",
+							"ownedElements": [
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLjL72Bk=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrF3b2AcLn4="
+									},
+									"name": "管理个人信息",
+									"ownedElements": [
+										{
+											"_type": "UMLInclude",
+											"_id": "AAAAAAFxYixhLjL8JL8=",
+											"_parent": {
+												"$ref": "AAAAAAFxYixhLjL72Bk="
+											},
+											"source": {
+												"$ref": "AAAAAAFxYixhLjL72Bk="
+											},
+											"target": {
+												"$ref": "AAAAAAFxYixhLjL5kak="
+											}
+										},
+										{
+											"_type": "UMLInclude",
+											"_id": "AAAAAAFxYixhLjL9Apk=",
+											"_parent": {
+												"$ref": "AAAAAAFxYixhLjL72Bk="
+											},
+											"source": {
+												"$ref": "AAAAAAFxYixhLjL72Bk="
+											},
+											"target": {
+												"$ref": "AAAAAAFxYixhLjL68CA="
+											}
+										}
+									]
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLjL3WzQ=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrF3b2AcLn4="
+									},
+									"name": "注册"
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLjL4DaQ=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrF3b2AcLn4="
+									},
+									"name": "登录"
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLjL5kak=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrF3b2AcLn4="
+									},
+									"name": "修改昵称"
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLjL68CA=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrF3b2AcLn4="
+									},
+									"name": "修改密码"
+								}
+							]
 						},
 						{
 							"_type": "UMLUseCaseSubject",
@@ -50208,7 +49852,48 @@
 							"_parent": {
 								"$ref": "AAAAAAFxYixhJTBU/7c="
 							},
-							"name": "个人收藏模块"
+							"name": "个人收藏模块",
+							"ownedElements": [
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLjL+UM0=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrIlym0u4cc="
+									},
+									"name": "取消收藏",
+									"ownedElements": [
+										{
+											"_type": "UMLExtend",
+											"_id": "AAAAAAFxYixhLjL/PZ4=",
+											"_parent": {
+												"$ref": "AAAAAAFxYixhLjL+UM0="
+											},
+											"source": {
+												"$ref": "AAAAAAFxYixhLjL+UM0="
+											},
+											"target": {
+												"$ref": "AAAAAAFxYixhLzMASM8="
+											}
+										}
+									]
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLzMASM8=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrIlym0u4cc="
+									},
+									"name": "收藏新闻"
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLzMBVxY=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrIlym0u4cc="
+									},
+									"name": "查看收藏"
+								}
+							]
 						},
 						{
 							"_type": "UMLUseCaseSubject",
@@ -50216,7 +49901,170 @@
 							"_parent": {
 								"$ref": "AAAAAAFxYixhJTBU/7c="
 							},
-							"name": "社交模块"
+							"name": "社交模块",
+							"ownedElements": [
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLzMCF04=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrJVQHnYUIM="
+									},
+									"name": "查看所有动态",
+									"ownedElements": [
+										{
+											"_type": "UMLGeneralization",
+											"_id": "AAAAAAFxYixhLzMDuGU=",
+											"_parent": {
+												"$ref": "AAAAAAFxYixhLzMCF04="
+											},
+											"source": {
+												"$ref": "AAAAAAFxYixhLzMCF04="
+											},
+											"target": {
+												"$ref": "AAAAAAFxYixhLzMGmt4="
+											}
+										}
+									]
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLzMEZ7M=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrJVQHnYUIM="
+									},
+									"name": "查看个人动态",
+									"ownedElements": [
+										{
+											"_type": "UMLGeneralization",
+											"_id": "AAAAAAFxYixhLzMF8qc=",
+											"_parent": {
+												"$ref": "AAAAAAFxYixhLzMEZ7M="
+											},
+											"source": {
+												"$ref": "AAAAAAFxYixhLzMEZ7M="
+											},
+											"target": {
+												"$ref": "AAAAAAFxYixhLzMGmt4="
+											}
+										}
+									]
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLzMGmt4=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrJVQHnYUIM="
+									},
+									"name": "查看动态"
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLzMHYmk=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrJVQHnYUIM="
+									},
+									"name": "查看关注动态",
+									"ownedElements": [
+										{
+											"_type": "UMLGeneralization",
+											"_id": "AAAAAAFxYixhLzMIcnM=",
+											"_parent": {
+												"$ref": "AAAAAAFxYixhLzMHYmk="
+											},
+											"source": {
+												"$ref": "AAAAAAFxYixhLzMHYmk="
+											},
+											"target": {
+												"$ref": "AAAAAAFxYixhLzMGmt4="
+											}
+										}
+									]
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLzMJofc=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrJVQHnYUIM="
+									},
+									"name": "评论动态"
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLzMKUlA=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrJVQHnYUIM="
+									},
+									"name": "关注好友"
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLzML61w=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrJVQHnYUIM="
+									},
+									"name": "取消关注好友"
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLzMM77A=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrJVQHnYUIM="
+									},
+									"name": "解除被关注"
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLzMN/nM=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrJVQHnYUIM="
+									},
+									"name": "评论新闻"
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLzMOhM0=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrJVQHnYUIM="
+									},
+									"name": "发布动态",
+									"ownedElements": [
+										{
+											"_type": "UMLInclude",
+											"_id": "AAAAAAFxYixhLzMPlSc=",
+											"_parent": {
+												"$ref": "AAAAAAFxYixhLzMOhM0="
+											},
+											"source": {
+												"$ref": "AAAAAAFxYixhLzMOhM0="
+											},
+											"target": {
+												"$ref": "AAAAAAFxYixhLzMN/nM="
+											}
+										},
+										{
+											"_type": "UMLInclude",
+											"_id": "AAAAAAFxYixhLzMQc4Q=",
+											"_parent": {
+												"$ref": "AAAAAAFxYixhLzMOhM0="
+											},
+											"source": {
+												"$ref": "AAAAAAFxYixhLzMOhM0="
+											},
+											"target": {
+												"$ref": "AAAAAAFxYixhLzMRNX4="
+											}
+										}
+									]
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLzMRNX4=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrJVQHnYUIM="
+									},
+									"name": "发布纯文本动态"
+								}
+							]
 						},
 						{
 							"_type": "UMLUseCaseSubject",
@@ -50224,7 +50072,167 @@
 							"_parent": {
 								"$ref": "AAAAAAFxYixhJTBU/7c="
 							},
-							"name": "浏览模块"
+							"name": "浏览模块",
+							"ownedElements": [
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLjLpWpw=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrKkXIX2vIQ="
+									},
+									"name": "查看新闻评论",
+									"ownedElements": [
+										{
+											"_type": "UMLExtend",
+											"_id": "AAAAAAFxYixhLjLqvUw=",
+											"_parent": {
+												"$ref": "AAAAAAFxYixhLjLpWpw="
+											},
+											"source": {
+												"$ref": "AAAAAAFxYixhLjLpWpw="
+											},
+											"target": {
+												"$ref": "AAAAAAFxYixhLjLo71Q="
+											}
+										}
+									]
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLjLo71Q=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrKkXIX2vIQ="
+									},
+									"name": "查看新闻"
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLjLrLUE=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrKkXIX2vIQ="
+									},
+									"name": "频道管理",
+									"ownedElements": [
+										{
+											"_type": "UMLInclude",
+											"_id": "AAAAAAFxYixhLjLsiIs=",
+											"_parent": {
+												"$ref": "AAAAAAFxYixhLjLrLUE="
+											},
+											"source": {
+												"$ref": "AAAAAAFxYixhLjLrLUE="
+											},
+											"target": {
+												"$ref": "AAAAAAFxYixhLjLvlLM="
+											}
+										},
+										{
+											"_type": "UMLInclude",
+											"_id": "AAAAAAFxYixhLjLtnmM=",
+											"_parent": {
+												"$ref": "AAAAAAFxYixhLjLrLUE="
+											},
+											"source": {
+												"$ref": "AAAAAAFxYixhLjLrLUE="
+											},
+											"target": {
+												"$ref": "AAAAAAFxYixhLjLwBiw="
+											}
+										},
+										{
+											"_type": "UMLInclude",
+											"_id": "AAAAAAFxYixhLjLuF+Y=",
+											"_parent": {
+												"$ref": "AAAAAAFxYixhLjLrLUE="
+											},
+											"source": {
+												"$ref": "AAAAAAFxYixhLjLrLUE="
+											},
+											"target": {
+												"$ref": "AAAAAAFxYixhLjLxNdU="
+											}
+										}
+									]
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLjLvlLM=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrKkXIX2vIQ="
+									},
+									"name": "切换频道"
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLjL1tYA=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrKkXIX2vIQ="
+									},
+									"name": "搜索动态",
+									"ownedElements": [
+										{
+											"_type": "UMLGeneralization",
+											"_id": "AAAAAAFxYixhLjL2LU0=",
+											"_parent": {
+												"$ref": "AAAAAAFxYixhLjL1tYA="
+											},
+											"source": {
+												"$ref": "AAAAAAFxYixhLjL1tYA="
+											},
+											"target": {
+												"$ref": "AAAAAAFxYixhLjLyhvw="
+											}
+										}
+									]
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLjLwBiw=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrKkXIX2vIQ="
+									},
+									"name": "增加频道"
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLjLxNdU=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrKkXIX2vIQ="
+									},
+									"name": "删除频道"
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLjLyhvw=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrKkXIX2vIQ="
+									},
+									"name": "搜索"
+								},
+								{
+									"_type": "UMLUseCase",
+									"_id": "AAAAAAFxYixhLjLzwVg=",
+									"_parent": {
+										"$ref": "AAAAAAFxdrKkXIX2vIQ="
+									},
+									"name": "搜索新闻",
+									"ownedElements": [
+										{
+											"_type": "UMLGeneralization",
+											"_id": "AAAAAAFxYixhLjL0MlI=",
+											"_parent": {
+												"$ref": "AAAAAAFxYixhLjLzwVg="
+											},
+											"source": {
+												"$ref": "AAAAAAFxYixhLjLzwVg="
+											},
+											"target": {
+												"$ref": "AAAAAAFxYixhLjLyhvw="
+											}
+										}
+									]
+								}
+							]
 						}
 					]
 				}
